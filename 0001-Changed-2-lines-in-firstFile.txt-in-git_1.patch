@@ -1,0 +1,24 @@
+From b1128b55e756cee6d076643e66bd52eaf1d4605f Mon Sep 17 00:00:00 2001
+From: Tatiana-Futarnaya <tannia93@mail.ru>
+Date: Mon, 17 Apr 2023 15:36:05 +0300
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 1fc5252..6408bbd 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-В тревоге пестрой и бесплодной
+-Большого света и двора
++&&&&&
++$$$$$
+ Я сохранила взгляд холодный,
+ Простое сердце, ум свободный
+ И правды пламень благородный
+-- 
+2.39.1.windows.1
+
